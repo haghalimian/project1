@@ -16,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1Z4TKz2aCv2Lo9M1BPHso685zcb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,8 +28,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -49,7 +51,8 @@
       <workItem from="1584097311743" duration="19188000" />
       <workItem from="1584168643074" duration="11139000" />
       <workItem from="1584274611393" duration="2763000" />
-      <workItem from="1584282057237" duration="481000" />
+      <workItem from="1584282057237" duration="1113000" />
+      <workItem from="1584297390679" duration="140000" />
     </task>
     <task id="LOCAL-00001" summary="upload project">
       <created>1584282125361</created>
@@ -72,29 +75,46 @@
       <option name="project" value="LOCAL" />
       <updated>1584282522016</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upload project">
+      <created>1584282576740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584282576740</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upload project">
+      <created>1584282586043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584282586043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/crypto" />
+    </ignored-roots>
     <MESSAGE value="upload project" />
     <option name="LAST_COMMIT_MESSAGE" value="upload project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1584282576638">
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1584282585935">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282576638" />
-    <state x="242" y="117" width="1482" height="872" key="DiffContextDialog" timestamp="1584282565364">
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282585935" />
+    <state x="242" y="117" width="1482" height="872" key="DiffContextDialog" timestamp="1584297576805">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="242" y="117" width="1482" height="872" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584282565364" />
-    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl" timestamp="1584279863491">
+    <state x="242" y="117" width="1482" height="872" key="DiffContextDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584297576805" />
+    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl" timestamp="1584297443547">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584279863491" />
+    <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584297443547" />
     <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1584132477072">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -111,14 +131,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584132477072" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584282411677">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1584297529835">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282411677" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584297529835" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584282590034">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282590034" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584274613567">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584274613567" />
+    <state x="761" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584297540765">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="761" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584297540765" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1584279860463">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
