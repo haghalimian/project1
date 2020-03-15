@@ -49,7 +49,7 @@
       <workItem from="1584097311743" duration="19188000" />
       <workItem from="1584168643074" duration="11139000" />
       <workItem from="1584274611393" duration="2763000" />
-      <workItem from="1584282057237" duration="240000" />
+      <workItem from="1584282057237" duration="481000" />
     </task>
     <task id="LOCAL-00001" summary="upload project">
       <created>1584282125361</created>
@@ -58,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584282125361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upload project">
+      <created>1584282384477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584282384477</updated>
+    </task>
+    <task id="LOCAL-00003" summary="upload project">
+      <created>1584282522016</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584282522016</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,10 +83,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="upload project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1584282125133">
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2" timestamp="1584282522023">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282125133" />
+    <state x="558" y="149" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282522023" />
     <state x="776" y="310" width="447" height="484" key="FileChooserDialogImpl" timestamp="1584279863491">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -93,10 +107,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584132477072" />
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584282296201">
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1584282411677">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282296201" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1584282411677" />
     <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1584274613567">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
