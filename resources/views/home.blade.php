@@ -21,7 +21,10 @@
                                 <h5 class="card-title"> Price: {{ $prices -> price }}</h5>
                             @endforeach
                             <p class="card-text"> Status: Available</p>
-                            <a href = "/coins/{{ $coin->id }}/edit" class="btn btn-primary">Edit {{ $coin -> name }}</a>
+                            @cannot('member' , $coin)
+                                <a href = "/coins/{{ $coin->id }}/edit" class="btn btn-primary">Edit {{ $coin -> name }}</a>
+                            @endcannot
+                            <a href = "/coins/{{ $coin->id }}/buy" class="btn btn-primary">Buy {{ $coin -> name }}</a>
                         </div>
                     </div>
                 </div>
