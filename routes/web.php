@@ -14,5 +14,5 @@ Route::group(['middleware'=>['auth']] , function(){
     Route::get('/coins/{coin}/edit' , 'coinsController@edit');
     Route::patch('/edit/{coin}' , 'coinsController@update');
     Route::delete('/coins/{coin}/delete' , 'coinsController@delete');
-
+    Route::get('wallet' , );
 }) ;

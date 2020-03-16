@@ -2,8 +2,12 @@
 
 @section('nav-bar')
     <li class="nav-item">
+        <a class="nav-link" href="/wallet"> Wallet</a>
+    </li>
+    <li class="nav-item">
         <a class="nav-link" href="/coins/add"> Add Coin</a>
     </li>
+
 @endsection
 @section('content')
     <div class="container">
